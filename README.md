@@ -1,1 +1,1 @@
-# Git-Tutorial-Devopa
+# Git-Tutorial-Devops
